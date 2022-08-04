@@ -5,8 +5,8 @@ class first extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
 
+//ligui
 
-    String Submit = "0";
 
     return Scaffold(
       appBar: AppBar(
